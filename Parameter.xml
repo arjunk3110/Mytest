@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<test thread-count="5" name="Test">
+  
+  
+
+         <parameter name="Param_URL" value="https://www.saucedemo.com"/>
+           <parameter name="Param_UserName" value="standard_user"/>
+           <parameter name="Param_Password" value="secret_sauce"/>
+
+    
+    
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
