@@ -4,7 +4,7 @@
 
 <suite name="Suite" >
 
-  <test thread-count="5" name="Test On firefox">
+  <test thread-count="5" name="Test On firefoxx">
   <parameter name="Browser" value="Firefox"></parameter>
     <classes>
        <class name="Execute_Failed_TC.Demo_Listener"/>
